@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on Angular, Spring and DjangoREST framework
 - 📫 How to reach me ...
   - [Email](mailto:dbm3323@gmail.com)
-  - [linkedIn](https://www.linkedin.com/in/deepak-mishra32/)
+  - [LinkedIn](https://www.linkedin.com/in/deepak-mishra32/)
 
 <!---
 deepak-mishra32/deepak-mishra32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
