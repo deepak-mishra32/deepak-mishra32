@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Mishra
 - 👀 I’m a Full Stack Web Developer (just a bit biased to frontend development)
-- 🌱 I’m currently working on Angular, Spring and DjangoREST framework
+- 🌱 I’m currently working with Angular, Springboot
 - 📫 How to reach me ...
   - [Email](mailto:dbm3323@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/deepak-mishra32/)
