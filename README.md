@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Web Developer & Technical Lead
 
-💼 Currently at **Tata Consultancy Services (TCS)**  
+💼 Currently at **Isotopes AI**  
 🧠 Passionate about crafting scalable, efficient, and modern web applications
 
 ---
